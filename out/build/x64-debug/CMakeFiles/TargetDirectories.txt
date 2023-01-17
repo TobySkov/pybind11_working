@@ -1,0 +1,5 @@
+C:/repos/pybind11_working/out/build/x64-debug/CMakeFiles/simple_python.dir
+C:/repos/pybind11_working/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/repos/pybind11_working/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/repos/pybind11_working/out/build/x64-debug/pybind11/CMakeFiles/edit_cache.dir
+C:/repos/pybind11_working/out/build/x64-debug/pybind11/CMakeFiles/rebuild_cache.dir

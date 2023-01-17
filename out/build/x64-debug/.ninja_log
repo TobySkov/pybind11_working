@@ -1,0 +1,4 @@
+# ninja log v5
+5	15	0	clean	8c45b54705a541e8
+6	1636	6956989630058560	CMakeFiles/simple_python.dir/src/simple_binding.cpp.obj	7d9f7c477f502be5
+1639	2007	6956989633561309	simple_python.cp310-win_amd64.pyd	cbe4d3fcbbc432b5
